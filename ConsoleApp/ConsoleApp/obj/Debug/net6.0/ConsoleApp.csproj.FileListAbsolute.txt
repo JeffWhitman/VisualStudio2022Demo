@@ -12,3 +12,4 @@ C:\Users\dr_je\source\repos\VisualStudio2022Demo\ConsoleApp\ConsoleApp\obj\Debug
 C:\Users\dr_je\source\repos\VisualStudio2022Demo\ConsoleApp\ConsoleApp\obj\Debug\net6.0\ref\ConsoleApp.dll
 C:\Users\dr_je\source\repos\VisualStudio2022Demo\ConsoleApp\ConsoleApp\obj\Debug\net6.0\ConsoleApp.pdb
 C:\Users\dr_je\source\repos\VisualStudio2022Demo\ConsoleApp\ConsoleApp\obj\Debug\net6.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\dr_je\source\repos\VisualStudio2022Demo\ConsoleApp\ConsoleApp\obj\Debug\net6.0\ConsoleApp.csproj.AssemblyReference.cache
